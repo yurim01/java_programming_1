@@ -50,3 +50,4 @@
         System.out.println("윈터의 나이가 맥스의 나이보다 많은가? " + win);
         System.out.println("윈터의 나이가 맥스의 나이보다 적은가? " + max);
 ```
+***
